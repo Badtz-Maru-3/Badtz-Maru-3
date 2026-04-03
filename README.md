@@ -1,4 +1,4 @@
-# 🛡️ Student | KoKu-3
+# 🛡️ Student
 ---
 
 ### 🎓 Education & Experience
