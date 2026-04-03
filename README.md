@@ -2,11 +2,11 @@
 
 > 김보규 (Bogyu Kim) a.k.a. **바츠마루(Bad Badtz-Maru)**
 >
-> 📧 [kimbogyu3@gmail.com](mailto:kimbogyu3@gmail.com)
+> 가천대학교 스마트보안학과 22학번
+> 띵가띵가 노는중
+> 
 >
-> 💼 [linkedin.com/in/poo-eng25671](https://www.linkedin.com/in/poo-eng25671)
->
-> 🐙 [github.com/KoKu-3](https://github.com/KoKu-3)
+> 
 
 ---
 
