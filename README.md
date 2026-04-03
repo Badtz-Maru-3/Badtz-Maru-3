@@ -88,7 +88,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KoKu-3&theme=github-dark-blue&border=00ff88&ring=00ff88&fire=ff6b6b&currStreakLabel=00ff88" />
+  <img src="https://streak-stats.demolab.com?user=KoKu-3&theme=github-dark-blue&border=00ff88&ring=00ff88&fire=ff6b6b&currStreakLabel=00ff88" />
 </div>
 
 ---
@@ -97,7 +97,7 @@
 
 <div align="center">
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=babodong2" />
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=babodong2" />
 
 </div>
 
