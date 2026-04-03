@@ -1,6 +1,4 @@
 # 🛡️ Student | KoKu-3
-행복하게 공부중
-
 ---
 
 ### 🎓 Education & Experience
