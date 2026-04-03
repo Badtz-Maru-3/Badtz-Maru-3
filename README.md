@@ -1,6 +1,6 @@
 # 👋 Who am I
 
-> 김보규 (BoGyu Kim) a.k.a. **푸 (Poo)**
+> 김보규 (Bogyu Kim) a.k.a. **바츠마루(Bad Badtz-Maru)**
 >
 > 📧 [kimbogyu3@gmail.com](mailto:kimbogyu3@gmail.com)
 >
