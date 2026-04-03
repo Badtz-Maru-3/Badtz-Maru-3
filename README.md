@@ -1,8 +1,3 @@
-<!-- 헤더 애니메이션 배너 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=200&section=header&text=Security%20Researcher&fontSize=40&fontColor=00ff88&fontAlignY=38&desc=Breaking%20things%20to%20build%20them%20better&descSize=16&descAlignY=58&descColor=aaaaaa" width="100%"/>
-</div>
-
 <!-- 타이핑 애니메이션 -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&repeat=true&width=600&lines=Security+Student;System+%26+Network+Hacker;Python+%2F+C+Developer;Always+Learning%2C+Always+Breaking" alt="Typing SVG" />
