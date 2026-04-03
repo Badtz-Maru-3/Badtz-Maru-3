@@ -10,13 +10,6 @@
 
 ---
 
-## 🔐 I'm a Security Researcher
-
-> *"열심히 살자"*
-
-보안에 관심을 가지고 공부하고 있는 학생입니다.
----
-
 ## 🧰 Technical Skills
 
 **Languages**
