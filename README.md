@@ -23,7 +23,6 @@
 
 ![System Hacking](https://img.shields.io/badge/System%20Hacking-FF4444?style=flat-square)
 ![Network Security](https://img.shields.io/badge/Network%20Security-0078D7?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
 ---
 
