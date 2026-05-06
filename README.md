@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Badtz_ru-3
+# 👋 Hi, I'm Badtz_maru-3
 
 보안에 관심을 가지고 열심히 공부하고 있는 학생입니다.
 
@@ -29,7 +29,6 @@
 
 ### 📊 GitHub Stats
 
-![KoKu-3's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KoKu-3&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KoKu-3&layout=compact&theme=github_dark&hide_border=true)
-
+![Badtz-Maru-3's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Badtz-Maru-3&show_icons=true&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Badtz-Maru-3&layout=compact&theme=github_dark&hide_border=true)
 ---
