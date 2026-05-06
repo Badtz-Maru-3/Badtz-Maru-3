@@ -33,7 +33,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KoKu-3&layout=compact&theme=github_dark&hide_border=true)
 
 ---
-
-### 🏅 BOJ
-
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=babodong2)](https://solved.ac/babodong2)
