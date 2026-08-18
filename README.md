@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Badtz_maru-3
 
-난 아무것도 몰라~
+~~ing
 
 ---
 
