@@ -1,15 +1,6 @@
 # 👋 Hi, I'm Badtz_maru-3
 
-~~ing
-
----
-
-### 🎓 Education & Experience
-
-- **가천대학교 스마트보안학과** | 재학 (2022.03 ~ 현재)
-  - GPA: 3.5 / 4.5
-- **목포대학교 정보보호영재교육원** | 고등 전문B 수료 (2021)
-- **대한민국 육군** | 병장 만기전역 🇰🇷
+Welcome to my world of ADHA
 
 ---
 
